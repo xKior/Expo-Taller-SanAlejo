@@ -60,7 +60,7 @@ Muchas personas se olvidan dónde guardaron sus cosas. Cuando necesitas encontra
 1. Navegar a la carpeta del proyecto
 
    ```bash
-   cd "c:\xampp\htdocs\Taller San alejo\SanAlejo\SanAlejoApp"
+   cd "c:...\SanAlejoApp"
    ```
 
 2. Instalar todas las dependencias del proyecto
