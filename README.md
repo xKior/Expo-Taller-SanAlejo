@@ -1,3 +1,6 @@
+<img width="720" height="1476" alt="image" src="https://github.com/user-attachments/assets/8cfdd6a4-e915-44e9-b5e1-e09a6e473c01" />
+
+
 ## Descripción
 
 San Alejo es una solución práctica diseñada para resolver un problema universal que enfrentan muchas personas: perder la noción de qué has guardado y dónde. Cuando acumulamos objetos en diferentes espacios de nuestro hogar o lugar de trabajo, resulta tremendamente frustrante no poder recordar dónde exactamente guardamos algo específico.
@@ -9,6 +12,10 @@ Esta aplicación móvil te proporciona un sistema completo de gestión de invent
 - **Localizar rápidamente** cualquier objeto consultando la aplicación en cualquier momento
 - **Mantener historial completo** de todo tu inventario, sincronizado localmente en tu dispositivo para acceso permanente
 - **Gestionar cambios** de forma sencilla cuando muevas, añadas o elimines objetos
+
+<img width="720" height="1452" alt="image" src="https://github.com/user-attachments/assets/38668772-dff7-4244-aefc-7e9c7a9d1084" />
+<img width="720" height="986" alt="image" src="https://github.com/user-attachments/assets/1c70f8ee-e9f4-4b5b-b16e-ea22cac2ecca" />
+
 
 ## Por qué San Alejo
 
